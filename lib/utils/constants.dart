@@ -1,0 +1,1 @@
+String message="Body Mass Index (BMI) is a medical screening tool that estimates body fat. It's calculated by dividing a person's weight in kilograms by the square of their height in meters ";
